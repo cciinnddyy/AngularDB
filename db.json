@@ -1,17 +1,22 @@
-[{
-  id:20,
-  name:"Dr. Q",
-  isdie:false
-},{
-  id:20,
-  name:"Dr. C",
-  isdie:false
+{
+  post:[
+    
+    {id:18,name:'Dr. G',isdie:false
+    },{id:18,name:'Dr. D',isdie:false
+    
+    },{id:18,name:'Dr. K',isdie:false
+    
+    }
+    
+    
+  
+  
+  
+  ]
 
 
-},{
 
-id:28,
-  name:"Dr. G",
-  isdie:false
 
-}]
+
+
+}
