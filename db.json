@@ -1,10 +1,10 @@
 {
-  post:[
+  "post":[
     
-    {id:18,name:'Dr. G',isdie:false
-    },{id:18,name:'Dr. D',isdie:false
+    {id:18,name:"Dr. G",isdie:false
+    },{id:18,name:"Dr. D",isdie:false
     
-    },{id:18,name:'Dr. K',isdie:false
+    },{id:18,name:"Dr. K",isdie:false
     
     }
     
