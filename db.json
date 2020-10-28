@@ -21,10 +21,10 @@
   
   ], "get":[
    
-   {"id":18,"name":"Dr. Cindy","isdie":false
-    },{"id":18,"name":"Dr. D","isdie":false
+    {"id":1,"name":"Dr. Cindy","isdie":false
+    },{"id":2,"name":"Dr. D","isdie":false
     
-    },{"id":18,"name":"Dr. K","isdie":false
+    },{"id":3,"name":"Dr. K","isdie":false
     
     }
  
